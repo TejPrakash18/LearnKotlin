@@ -1,7 +1,7 @@
-package ClassesAndObjects
+package ObjectOrientedProgramming.ClassesAndObjects
 
 class Classes{
-    var name:String ="";
+    private var name:String
 
     fun namePrint():String{
         name = "Tej"

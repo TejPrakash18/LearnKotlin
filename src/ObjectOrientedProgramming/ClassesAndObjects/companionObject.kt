@@ -1,4 +1,4 @@
-package ClassesAndObjects
+package ObjectOrientedProgramming.ClassesAndObjects
 
 fun main(){
 
@@ -13,4 +13,5 @@ class Constants{
         const val BASE_URL = "https://api.example.com/"
         const val TIMEOUT_DURATION = 30L
     }
+
 }
